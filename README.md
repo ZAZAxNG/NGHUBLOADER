@@ -1,52 +1,39 @@
-<div align="center"><img src="https://i.postimg.cc/FzwqDfkD/new-logo.png" width="140" alt="NGHUBZ Logo">💜 NGHUBLOADER
+<div align="center">NGHUBLOADER
 
-THE OFFICIAL NGHUBZ LOADER PROJECT
+A simple and lightweight loader for NGHUB.
 
-Simple. Modern. Built for the NGHUBZ community.
-
-""Website" (https://img.shields.io/badge/NGHUBZ-Official%20Website-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://nghubz.netlify.app)
-""GitHub" (https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ZAZAxNG/NGHUBLOADER)
-""Discord" (https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)" (https://discord.gg/99q3bDGGPN)
+<img src="https://i.postimg.cc/FzwqDfkD/new-logo.png" width="150" alt="NGHUB Logo"><br>""GitHub Repository" (https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)" (https://github.com/nghubz/nghubzloader)
+""Lua" (https://img.shields.io/badge/Language-Lua-2C2D72?style=for-the-badge&logo=lua)" (https://www.lua.org/)
 
 </div>---
 
-🌌 About NGHUBLOADER
+About
 
-NGHUBLOADER is a project developed under NGHUBZ, focused on providing a central entry point for NGHUBZ scripts and related projects.
+NGHUBLOADER is a Lua loader project made for NGHUB. The goal is to keep script loading simple and easy to use.
 
-Our goal is to build a clean, convenient experience while continuing to improve the project and its documentation.
+Features
 
-✨ Highlights
+- Simple Loader — Easy-to-use loading script.
+- Lightweight — Minimal setup.
+- Easy Access — Copy the script and use it where supported.
+- Regular Updates — Check this repository for the latest changes.
 
-- 💜 NGHUBZ Identity — A consistent visual style and project branding.
-- ⚡ Simple Design — Focused on a straightforward user experience.
-- 🛠️ Ongoing Development — Improvements and updates as the project evolves.
-- 🌐 Community Access — Find the official website, repository, and community links in one place.
+Script
 
-🖥️ Project Preview
+Copy the loader script below:
 
-<div align="center"><img src="https://i.postimg.cc/FzwqDfkD/new-logo.png" width="220" alt="NGHUBLOADER Project Preview">NGHUBLOADER — Part of the NGHUBZ project ecosystem.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZAZAxNG/NGHUBLOADER/refs/heads/main/loader.lua"))()
 
-</div>🚀 Getting Started
+Links
 
-1. Visit the "NGHUBLOADER repository" (https://github.com/ZAZAxNG/NGHUBLOADER).
-2. Read the source code and available project documentation.
-3. Follow the instructions provided in the repository before using any project files.
-
-«Note: Check the source code and only use scripts you trust. Features and compatibility depend on the current project version.»
-
-🔗 Official Links
-
-Resource| Link
-🌌 NGHUBZ Website| "nghubz.netlify.app" (https://nghubz.netlify.app)
-📂 GitHub Profile| "ZAZAxNG" (https://github.com/ZAZAxNG)
-⚡ NGHUBLOADER| "View Repository" (https://github.com/ZAZAxNG/NGHUBLOADER)
-💬 Discord| "Join Community" (https://discord.gg/99q3bDGGPN)
+- "GitHub Repository" (https://github.com/nghubz/nghubzloader)
+- "NGHUB Website" (https://nghubz.netlify.app)
+- "NGHUB Discord" (https://discord.gg/99q3bDGGPN)
 
 ---
 
-<div align="center">💜 Built by NGHUBZ
+<div align="center">NGHUB — Clean. Fast. Simple.
 
-Clean design. Continuous development. Community first.
+Made by the NGHUB team.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:B44CFF,100:DD9BFF&height=120&section=footer" width="100%" alt="Purple gradient footer"></div>
+</div>
