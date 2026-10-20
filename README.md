@@ -1,11 +1,8 @@
-
-# NGHUBLOADER
-
 <div align="center">
 
-### A simple and lightweight loader for NGHUB
+### NGHUB
 
-<img src="https://i.postimg.cc/FzwqDfkD/new-logo.png" width="140" alt="NGHUB Logo">
+<img src="https://static.mysellauth.com/storage/images/1194315.webp" width="140" alt="NGHUB Logo">
 
 </div>
 
@@ -22,18 +19,11 @@
 
 ## About
 
-NGHUBLOADER is a Lua loader project made for NGHUB, designed to keep script loading simple and straightforward.
-
-## Features
-
-- **Simple** — Easy-to-use loader.
-- **Lightweight** — Minimal setup.
-- **Easy to access** — Copy the script from the box below.
-- **Updates** — Check the repository for changes.
+NGHUB is a Luau project made for Murder Mystery 2, Built for Unfair Experience.
 
 ## Script
 
-Copy the script using the copy button in the top-right corner of the code box.
+Copy the script
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZAZAxNG/NGHUBLOADER/refs/heads/main/loader.lua"))()
@@ -41,12 +31,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ZAZAxNG/NGHUBLOADER/r
 
 ## Links
 
-- [NGHUB Website](https://nghubz.netlify.app)
-- [NGHUB Discord](https://discord.gg/99q3bDGGPN)
+- [NGHUB Website](https://nghubz.sellauth.com)
+- [NGHUB Discord](https://discord.gg/3BTYn9ZGqX)
 - [GitHub Repository](https://github.com/ZAZAxNG/NGHUBLOADER)
 
 ---
 
 <p align="center">
-  <sub>NGHUB — Clean. Fast. Simple.</sub>
+  <sub>Join discord server for update annoucement :].</sub>
 </p>
