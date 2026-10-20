@@ -2,7 +2,7 @@
 
 ### NGHUB
 
-<img src="https://static.mysellauth.com/storage/images/1194315.webp" width="280" alt="NGHUB Logo">
+<img src="https://static.mysellauth.com/storage/images/1194315.webp" width="420" alt="NGHUB Logo">
 
 </div>
 
